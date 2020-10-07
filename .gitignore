@@ -1,2 +1,6 @@
 **/*.ipynb_checkpoints/
 dataset/
+general_checkpoint/
+refined_checkpoint/
+general_set.csv
+refined_set.csv
