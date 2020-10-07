@@ -2,5 +2,6 @@
 dataset/
 general_checkpoint/
 refined_checkpoint/
+train_test_validate_set/
 general_set.csv
 refined_set.csv
