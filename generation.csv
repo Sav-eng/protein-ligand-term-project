@@ -1,0 +1,5 @@
+name_model,name_log,lr,dropout,maxpool,alpha,batch_size
+model2.h5,log2,0.0005,0,False,0.8,128
+model3.h5,log3,0.0005,0,False,0.8,128
+model3.h5,log3.csv,0.0005,0,False,0.8,128
+model3.h5,log3.csv,0.0005,0,False,0.8,128
