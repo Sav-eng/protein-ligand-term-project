@@ -3,3 +3,5 @@ model2.h5,log2,0.0005,0,False,0.8,128
 model3.h5,log3,0.0005,0,False,0.8,128
 model3.h5,log3.csv,0.0005,0,False,0.8,128
 model3.h5,log3.csv,0.0005,0,False,0.8,128
+model4.h5,log4.csv,0.0005,0,False,0,128
+model5.h5,log5.csv,0.0005,0,False,1,128
