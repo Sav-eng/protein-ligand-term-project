@@ -12,3 +12,10 @@ model6.h5,log6.csv,0.001,0,False,0.8,128
 model7.h5,log7.csv,0.001,0,False,0.8,128
 model8.h5,log8.csv,0.001,0,False,0,128
 model9.h5,log9.csv,0.001,0,False,1,128
+ki_kd.h5,ki_kd.csv,0.001,0,False,0.8,128
+80_cutoffs.h5,80_cutoffs.csv,0.001,0,False,0.8,128
+kd.h5,kd.csv,0.001,0,False,0.8,128
+ki.h5,ki.csv,0.001,0,False,0.8,128
+ki.h5,ki.csv,0.001,0,False,0.8,128
+kd.h5,kd.csv,0.001,0,False,0.8,128
+80_cutoffs_Ki_Kd.h5,80_cutoffs_Ki_Kd.csv,0.001,0,False,0.8,128
