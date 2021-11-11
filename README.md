@@ -4,3 +4,6 @@ Binding affinity can indicate the effectiveness of the specific medication and t
 The problem is this project is to find a binding affinity between protein and ligand. We proporsed a new way to processing the input from three dimentional image to two dimentional image and implemeented a simple deep convolutional model to proof its effectiveness. 
 
 The result shows that the model can reach the state-of-the-art performance at that time.
+
+The preprocessing method can be found at https://github.com/Sav-eng/protein-ligand-term-project/blob/main/Generate_features.ipynb.
+The code of the model can be found at https://github.com/Sav-eng/protein-ligand-term-project/blob/main/Model.ipynb.
