@@ -6,4 +6,5 @@ The problem is this project is to find a binding affinity between protein and li
 The result shows that the model can reach the state-of-the-art performance at that time.
 
 The preprocessing method can be found at https://github.com/Sav-eng/protein-ligand-term-project/blob/main/Generate_features.ipynb.
+
 The code of the model can be found at https://github.com/Sav-eng/protein-ligand-term-project/blob/main/Model.ipynb.
